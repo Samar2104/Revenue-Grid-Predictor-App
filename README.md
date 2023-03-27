@@ -1,5 +1,5 @@
 # Revenue-Grid-Predictor-App
-This is a single page  webapp which will help you check the revenue grid
+This is a single page  webapp which will help you predict the revenue grid
 
 visit the live website : https://samar2104-revenue-grid-predictor-app-final-deploy-nkdgbr.streamlit.app/
 
